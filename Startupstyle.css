@@ -1,0 +1,53 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat' , sans-serif;
+  	background-image:url('jasper-gribble-TgQUt4fz9s8-unsplash.jpg'); 
+  	background-size: cover;
+  	background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+h1 {
+	color:  #DD4A3E;
+	flex-direction: center;
+}
+
+hr {
+	margin: 20px auto;
+	opacity: 1;
+	border-color: #DD4A3E;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+.buffer {
+	height: 15rem;
+}
+
+.btn-primary-wrapper {
+	height: 30px;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #DD4A3E;
+	border-color: #DD4A3E;
+}
+
+.btn-primary:hover {
+	background-color: #133453;
+	border-color: #133453;
+	border-width: 4px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
